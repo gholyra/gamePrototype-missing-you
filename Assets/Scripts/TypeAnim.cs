@@ -20,7 +20,7 @@ public class TypeAnim : MonoBehaviour
     {
         for (int i = 0; i < phrase.Length; i++)
         {
-            
+            print(phrase[i]);
         }
         Debug.Log(phrase);
     }
